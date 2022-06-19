@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eruslanovandrey/Desktop/Examples/Example001_HelloConsole/Example003_sum/Example003_sum.csproj",
+      "projectUniqueName": "/Users/eruslanovandrey/Desktop/Examples/Example003_sum/Example003_sum.csproj",
       "projectName": "Example003_sum",
-      "projectPath": "/Users/eruslanovandrey/Desktop/Examples/Example001_HelloConsole/Example003_sum/Example003_sum.csproj",
+      "projectPath": "/Users/eruslanovandrey/Desktop/Examples/Example003_sum/Example003_sum.csproj",
       "packagesPath": "/Users/eruslanovandrey/.nuget/packages/",
-      "outputPath": "/Users/eruslanovandrey/Desktop/Examples/Example001_HelloConsole/Example003_sum/obj/",
+      "outputPath": "/Users/eruslanovandrey/Desktop/Examples/Example003_sum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eruslanovandrey/.nuget/NuGet/NuGet.Config"
