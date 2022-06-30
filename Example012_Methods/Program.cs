@@ -41,16 +41,34 @@ void Method1()
 
 
 // Вид 4 принимают и возвращают.
+// string Method4(int count, string text)
+// {
+//     int i = 0;
+//     string result = String.Empty;
+
+//     while(i<count)
+//     {
+//         result = result + text;
+//         i++;
+//     }
+//     return result;
+// }
+// string res = Method4(10, "Q");
+// Console.WriteLine(res);
+
+
+
+// Добавили информацию о цикле for.
+
 string Method4(int count, string text)
 {
-    int i = 0;
-    string result = String.Empty;
 
-    while(i<count)
-    {
-        result = result + text;
-        i++;
-    }
+    string result = String.Empty;
+    for (int i = 0; i < count; i++)
+        {
+            result = result + text;
+
+        }
     return result;
 }
 string res = Method4(10, "Q");
