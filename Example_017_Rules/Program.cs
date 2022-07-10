@@ -1,0 +1,9 @@
+﻿// Name of the methods.
+// Ruls of the code. 
+int a = 12;
+Console.WriteLine(a.GetType());
+
+var date = new int[] { 1, 2, 3, 4, 5 }
+                    .Where(e => e > 0)
+                    .Select(e => new { q = e, w = e + 1 });
+                    Console.WriteLine(date.GetType());
